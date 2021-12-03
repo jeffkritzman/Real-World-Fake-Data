@@ -1,2 +1,2 @@
 # Real-World-Fake-Data
-Tableau Prep flows for RWFD challenge
+Tableau Prep flows (.tfl file extension) for RWFD challenge
